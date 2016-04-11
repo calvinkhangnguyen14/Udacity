@@ -1,3 +1,0 @@
-# Udacity
-Udacity
-Testing This
